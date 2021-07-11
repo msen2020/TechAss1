@@ -12,4 +12,5 @@
       Then User clicks the Create your Amazon account button
       Then verify that the user sees the message "Email address already in use"
 
+
     #Authenticated Required başlıklı sayfaya gelince testin başarılı olduğu doğrulanmalı.
