@@ -13,4 +13,7 @@
       Then verify that the user sees the message "Email address already in use"
 
 
+    #Technical Assigment Aşamaları
+    #Amazon ana sayfadaki "Start here" linkine tıklayarak kayıt sayfasına gitmeli.
+    #Kayıt sayfasındaki inputları doldurarak kayıt oluşturmalı.
     #Authenticated Required başlıklı sayfaya gelince testin başarılı olduğu doğrulanmalı.
