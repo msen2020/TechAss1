@@ -5,7 +5,7 @@
     Scenario: User goes to the Registration Page
       Given TC01_User goes to amazon page
       And User goes to registration page by clicking the "Start Here" link
-      And User enters a "name" under Your name
+      And User enters a "customername" under Your name
       And User enters a valid "email" under Email
       And User enters a "password" under Password
       And User reenters the "password" Re-enter Password
